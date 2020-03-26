@@ -1,0 +1,5 @@
+.grid-container {
+    display: grid;
+    lost-column: 1/3;
+      
+  }
